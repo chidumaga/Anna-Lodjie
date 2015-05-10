@@ -1,6 +1,6 @@
 # Anna-Lodjie
 
-[!My Image](https://github.com/chidumaga/Anna-Lodjie/blob/master/08%20GIRLS2-150ppp.jpg)
+![My Image](https://github.com/chidumaga/Anna-Lodjie/blob/master/08%20GIRLS2-150ppp.jpg)
 
 Hey, my name is Anna.
 
