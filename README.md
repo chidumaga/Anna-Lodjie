@@ -1,5 +1,7 @@
 # Anna-Lodjie
 
+[!My Image](https://github.com/chidumaga/Anna-Lodjie/blob/master/08%20GIRLS2-150ppp.jpg)
+
 Hey, my name is Anna.
 
 I am an aspiring web developer with a penchant for metaphors, I find that they help me understand code concepts better.
